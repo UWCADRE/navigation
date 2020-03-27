@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="move_base" type="move_base_node" name="move_base_node">
+</launch>
