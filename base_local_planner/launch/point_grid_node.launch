@@ -1,4 +1,4 @@
 <launch>
   <param name="holonomic_robot" value="false"/>
-  <node pkg="base_local_planner" type="point_grid_node" name="point_grid_node"/>
+  <node pkg="base_local_planner" type="point_grid" name="point_grid_node"/>
 </launch>
